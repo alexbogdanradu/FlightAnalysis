@@ -74,7 +74,7 @@ namespace FlightAnalysis
             for (int i = 0; i < details_data.Count; i++)
             {
                 time.Add((int)details_data[i][0]);
-                battery_level.Add((int)details_data[i][1]);
+                battery_level.Add((int)details_data[i][1]); 
                 controller_gps_longitude.Add((int)details_data[i][2]);
                 controller_gps_latitude.Add((int)details_data[i][3]);
                 flying_state.Add((int)details_data[i][4]);
