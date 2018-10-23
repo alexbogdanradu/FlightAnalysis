@@ -88,7 +88,7 @@ namespace FlightAnalysis
             //npPlot5.Color = System.Drawing.Color.Orange;
 
             //npSurface.Add(npPlot5, NPlot.PlotSurface2D.XAxisPosition.Bottom,
-            //      NPlot.PlotSurface2D.YAxisPosition.Left);
+            //      NPlot.PlotSurface2D.YAxisPosition.Left); 
 
             npSurface.Refresh();
 
